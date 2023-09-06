@@ -1,0 +1,4 @@
+float32 robot_number
+float32 scout_number
+---
+float32 sum
